@@ -31,5 +31,5 @@ weight = 5
 
 # Biography
 
-Iuro Nascimento is a MSc student at Federal University of Minas Gerais and is part of MACRO(macro.ppgee.ufmg.br) researsh group. His research interest includes robotics, control systems, predictive controllers and artificial inteligence.
+Iuro Nascimento is a MSc student at [Federal University of Minas Gerais](https://ufmg.br/international-visitors/) and is part of [MACRO](http://macro.ppgee.ufmg.br) researsh group. His research interest includes robotics, control systems, predictive controllers and artificial inteligence.
 

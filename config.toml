@@ -239,6 +239,11 @@ enableGitInfo = false
     link = "https://scholar.google.com/citations?user=_EIWeGsAAAAJ"
 
   [[params.social]]
+    icon = "lattes"
+    icon_pack = "ai"
+    link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8570880P6"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/iurobpn"
