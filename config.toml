@@ -239,6 +239,11 @@ enableGitInfo = false
     link = "https://scholar.google.com/citations?user=_EIWeGsAAAAJ"
 
   [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Iuro_Nascimento?isModalOpen=1"
+
+  [[params.social]]
     icon = "lattes"
     icon_pack = "ai"
     link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8570880P6"
