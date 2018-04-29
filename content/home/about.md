@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "MSc in Electrical Engineering"
-  institution = "Stanford University"
+  institution = "Federal University of Minas Gerais - UFMG"
   year = "2017 - in course"
 
 [[education.courses]]
