@@ -1,11 +1,11 @@
 +++
 # About/Biography widget.
-widget = "about"
-active = true
+widget = "about"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+weight = 5  # Order that this section will appear in.
 date = 2016-04-20T00:00:00
 
-# Order that this section will appear in.
-weight = 5
+title = "Biography"
 
 # List your academic interests.
 [interests]
@@ -26,8 +26,7 @@ weight = 5
   course = "BSc in Electrical Engineering"
   institution = "Federal University of Minas Gerais - UFMG"
   year = 2016
- 
-+++
+
 
 # Biography
 
